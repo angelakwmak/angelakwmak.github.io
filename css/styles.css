@@ -7,12 +7,16 @@
 	font-family: HelFont;
 	src: url("../Helvetica\ Light.ttf");
 }
+@font-face {
+	font-family: HelFont;
+	src:url("../helvetica-neue-bold.ttf");
+	font-weight: bold;
+}
 body  {
 	font-family: HelFont;
 	font-size: 16px;
 	background: url(../images/siteBackground.jpg) repeat;
 	color: #777777;
-	text-shadow: 0px 0px, 1px 1px #ffffff;
 }
 a {
 	color:#160000;;
